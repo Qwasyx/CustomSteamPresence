@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "Qwasyx",
+  "description": "",
+  "gameVersion": "1.8.0",
+  "id": "CustomSteamPresence",
+  "name": "CustomSteamPresence",
+  "version": "1.0.0",
+  "features": [],
+  "links": {
+    "project-source": "https://github.com/Qwasyx/CustomSteamPresence"
+  }
+}
